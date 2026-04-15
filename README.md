@@ -1,13 +1,15 @@
-# Poc-Task-List
+# PoC Repository
 
+This repository contains security proof-of-concept notes and walkthroughs.
 
+## Start Here
 
+If you are a beginner, start with the OWASP writeups:
 
+- [`/OWASP/README.md`](./OWASP/README.md)
 
+## Repository Structure
 
-
-
-
-
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stalin143) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/stalinS143) 
+- `OWASP/` → OWASP Top 10 2025 room walkthroughs (organized, beginner-friendly)
+- `DFIR/` → Digital forensics and incident response notes
+- `Task*.md` and `poc.md` → older standalone lab notes
